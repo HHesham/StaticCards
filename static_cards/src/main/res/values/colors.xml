@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="selected_page_indicator">#802D2D2D</color>
+    <color name="unselected_page_indicator">#4D2D2D2D</color>
+
+</resources>

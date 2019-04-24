@@ -1,0 +1,89 @@
+<resources>
+<string name="app_name">StaticCards</string>
+<string name="register">Register</string>
+<string name="create_account_l1">Create account</string>
+<string name="create_account_l2">to get career matches</string>
+<string name="discover_career_opportunities">Discover your\ncareer opportunities</string>
+<string name="discover_career_details">Get a closer look at what to expect from a job at McDonald’s, including
+    career opportunities and professional training.
+</string>
+<string name="chat">Chat</string>
+<string name="notification">Notification</string>
+<string name="discover">Discover</string>
+<string name="profile">Profile</string>
+
+<string name="hello_blank_fragment">Hello blank fragment</string>
+<string name="card1_header">Why McDonald’s?</string>
+<string name="card2_header">Archways to Opportunity™</string>
+<string name="card1_detail">Working at McDonald\'s can help you build a successful future.</string>
+<string name="card2_detail">Check out McDonald\'s employee education programs and perks</string>
+<string name="card3_header">McDonald\'s Careers</string>
+<string name="card3_detail">Career pathways at McDonald\'s</string>
+//intro video
+<string name="video_details">What\'s in the App</string>
+<string name="video_duration">1:30</string>
+<string name="profile_place_holder">Create an account to save careers that interest you.</string>
+<string name="notification_place_holder">Get access to helpful tips and reminders when you create
+    an account.
+</string>
+<string name="chat_place_holder">Create an account to access Kai, our helpful chatbot.</string>
+<string name="image_desc">desc</string>
+
+// Sign up flow
+<string name="title_activity_registration">RegistrationActivity</string>
+<string name="dummy_button">Dummy Button</string>
+<string name="dummy_content">DUMMY\nCONTENT</string>
+<string name="register_background_alt_text">Register screen background</string>
+<string name="lets_get_started">Let’s Get Started!</string>
+<string name="i_am_new_here">I\'m New Here</string>
+<string name="need_help_we_are_here">Need help? We’re here.</string>
+<string name="log_in">Log In</string>
+<string name="back_button_alt_txt">Back</string>
+<string name="error_bubble_alt_txt">Error Bubble</string>
+<string name="dummy_error_message">Error Message.\nSecond line of error message.</string>
+<string name="whats_your_name">What\'s your name?</string>
+<string name="first_name">First name</string>
+<string name="last_name">Last name</string>
+<string name="next">Next</string>
+<string name="whats_your_email">What\'s your email address?</string>
+<string name="enter_email_hint">Enter your email</string>
+<string name="great_to_meet_you_friend">It\'s great to meet you, friend!</string>
+<string name="lets_set_up_login">Now, let\'s set up your login.</string>
+<string name="thanks">Thanks!</string>
+<string name="login_needs_password">Every login needs a password.</string>
+<string name="whats_yours">What’s yours?</string>
+<string name="password_rule">Make sure it’s at least eight characters\nlong and has at least one symbol.</string>
+<string name="password_hint">Password</string>
+<string name="create_account">Create Account</string>
+<string name="creating_account">Creating Account</string>
+<string name="empty_name_validation_error">Enter at least one character.</string>
+<string name="invalid_name_validation_error">Enter a valid name.</string>
+<string name="invalid_email_validation_error">Email not valid.</string>
+<string name="select_level_first">Please select education level first or skip</string>
+<string name="select_mcd_employee">Are you MCD employee</string>
+<string name="invalid_password_validation_error">Your password does not meet the conditions stated below. Please
+    enter a new password.
+</string>
+<string name="network_error_message">Request failed. Please try again</string>
+<string name="whats_education_level">What’s your education level?</string>
+<string name="working_at_mcd">Are you working at McDonald\'s?</string>
+<string name="skip">Skip</string>
+<string name="yes">Yes</string>
+<string name="no">No</string>
+<string name="cancel">Cancel</string>
+
+<string name="select_education_level">Select education level</string>
+
+<string-array name="education_levels">
+    <item>Less than High School</item>
+    <item>Some High School</item>
+    <item>HS Diploma/GED/HiSet</item>
+    <item>Vocational Certificate</item>
+    <item>Some College</item>
+    <item>Associates Degree</item>
+    <item>Bachelor’s Degree</item>
+    <item>Master’s Degree</item>
+    <item>Doctorate/Ph.D.</item>
+    <item>Certification</item>
+</string-array>
+</resources>
